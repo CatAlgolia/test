@@ -1,0 +1,17 @@
+[
+  {
+    "firstname": "a",
+    "lastname": "c",
+    "zip_code": 12345
+  },
+  {
+    "firstname": "b",
+    "lastname": "Dcoe",
+    "zip_code": null
+  },
+  {
+    "firstname": "testing_one",
+    "lastname": "test",
+    "zip_code": null
+  }
+]
