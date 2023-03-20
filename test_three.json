@@ -1,7 +1,12 @@
 [
   {
-    "testing": "Jimmie",
-    "testingA": "Barninger",
+    "firstname": "Jimmie",
+    "lastname": "Barninger",
     "zip_code": 12345
+  },
+  {
+    "firstname": "John",
+    "lastname": "Doe",
+    "zip_code": null
   }
 ]
